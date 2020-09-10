@@ -1,0 +1,17 @@
+#footer {
+  background-color: #e03a3e;
+  border-top: solid 3px black;
+}
+
+.foot-link {
+  padding: 10px;
+  color: black;
+  font-family: "Amatic SC", cursive;
+  font-weight: bold;
+}
+
+.foot-icon {
+    padding: 10px;
+  color: black;
+  font-size: 20px;
+}

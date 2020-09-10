@@ -1,0 +1,32 @@
+#navPro {
+  background-color: #e03a3e;
+  border-bottom: solid 3px black;
+}
+
+.namePlate1 {
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 70px;
+  justify-content: center;
+}
+
+.divide {
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 70px;
+  justify-content: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navName {
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 70px;
+  justify-content: center;
+  text-decoration: underline;
+}
+
+.navName:hover {
+  color: white;
+}

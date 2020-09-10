@@ -1,0 +1,39 @@
+.header {
+  justify-content: center;
+  font-family: "Amatic SC", cursive;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.proCont {
+  justify-content: center;
+}
+
+.proHead {
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 70px;
+  justify-content: center;
+}
+
+.proLink {
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 25px;
+  padding-top: 40px;
+  padding-left: 15px;
+}
+
+.cont {
+    padding-top: 100px;
+    /* padding-bottom: 100px; */
+}
+
+.title {
+  padding-bottom: 100px;
+}
+
+.scrollNav {
+  background: white;
+}
+
